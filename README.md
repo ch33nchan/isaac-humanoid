@@ -1,6 +1,4 @@
-Here's a basic README file that provides an introduction to your project, steps to run it, and mentions its current status:
 
-```markdown:/Users/cheencheen/Desktop/ch33chan/IsaacGym-RL-Humanoid/README.md
 # IsaacGym-RL-Humanoid
 
 This project is focused on training humanoid robots using reinforcement learning techniques within NVIDIA's Isaac Gym environment. The primary algorithm used is Proximal Policy Optimization (PPO), which is well-suited for environments with continuous action spaces.
@@ -37,5 +35,3 @@ python gpugym/scripts/play.py --task=pbrs:humanoid
 
 As the project is currently on hold, please be aware that some features may not be fully functional or up-to-date with the latest developments in Isaac Lab.
 ```
-
-This README provides a concise overview of the project, its current status, and basic instructions for running it.
